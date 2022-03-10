@@ -9,6 +9,6 @@
 >Вы можете цитировать текст с помощью a >.
 
 * [GitHub](https://github.com)
-* [I(Я)](https://github.com)
+* [I(Я)]()
 
 
